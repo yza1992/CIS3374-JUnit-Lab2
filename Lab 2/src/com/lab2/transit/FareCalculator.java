@@ -2,7 +2,7 @@ package com.lab2.transit;
 
 public class FareCalculator {
 	
-	public double calculateFare(int age, String time, boolean isHoliday) {
+	public static double calculateFare(int age, String time, boolean isHoliday) {
 		
 		String[] parsedTime = time.split(":");
 		
