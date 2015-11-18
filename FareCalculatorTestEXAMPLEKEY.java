@@ -32,6 +32,7 @@ public class FareCalculatorTest {
 		return Arrays.asList(new Object[][] {
 				{0.0, 4, "6:00", false},
 				{2.5, 6, "20:00", false}
+				{ 
 		});
 	}
 	
